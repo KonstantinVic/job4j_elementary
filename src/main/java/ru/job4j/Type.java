@@ -10,13 +10,13 @@ public class Type {
         System.out.println(height);
         short brick = 28458;
         System.out.println(brick);
-        int bacterium = 10000000;
+        double bacterium = 1E+7;
         System.out.println(bacterium);
-        double distance = 152000000.00;
+        double distance = 1.52e+8;
         System.out.println(distance);
         boolean work = true;
         System.out.println(work);
-        byte mem = 1;
+        long mem = 100500;
         System.out.println(mem);
     }
 }
